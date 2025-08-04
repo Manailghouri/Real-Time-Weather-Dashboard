@@ -3,6 +3,9 @@
 A modern, responsive dashboard that displays real-time weather information for any city using the OpenWeatherMap API.
 
 ---
+## 🌐 Live Demo
+
+👉 [**Demo**](https://tranquil-griffin-c463e4.netlify.app/)
 
 ## 📸 Screenshot
 
